@@ -1,4 +1,4 @@
-# Ranch for the [Cattle](https://github.com/wuzhiping/cattle)
+# Ranch for the [Cattles](https://github.com/wuzhiping/cattle) & [Pigs](https://github.com/wuzhiping/pig)
 [Planka Kanban](https://github.com/wuzhiping/kanban)
 
 ## 七诫
