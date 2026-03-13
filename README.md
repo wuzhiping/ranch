@@ -1,2 +1,2 @@
-# ranch
-Ranch for Cattle 
+# Ranch for the [cattle](https://github.com/wuzhiping/cattle)
+Planka Kanban 
