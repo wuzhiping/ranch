@@ -1,4 +1,4 @@
-# <RPC> Ranch 4 [Pigs](https://github.com/wuzhiping/pig) & [Cattles](https://github.com/wuzhiping/cattle)
+# *RPC* Ranch 4 [Pigs](https://github.com/wuzhiping/pig) & [Cattles](https://github.com/wuzhiping/cattle)
 [Planka Kanban](https://github.com/wuzhiping/kanban)
 
 ## 七诫
