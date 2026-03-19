@@ -1,4 +1,5 @@
 # *V-RPC* : Ranch 4 [Pigs](https://github.com/wuzhiping/pig) & [Cattles](https://github.com/wuzhiping/cattle)
+* [opencode:uv](https://github.com/wuzhiping/opencode)
 * [Planka Kanban](https://github.com/wuzhiping/kanban)
 * [paperclip](https://paperclip.ing)
   
